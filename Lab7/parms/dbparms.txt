@@ -1,0 +1,4 @@
+username=lab7_user
+password=user4wamp
+host=localhost
+db=lab7
